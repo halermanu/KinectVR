@@ -1,0 +1,34 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x1617)
+    Vendor:   NVIDIA
+    VRAM:     4061 MB
+    Driver:   22.21.13.8253
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.259 seconds
+Platform assembly: D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Faculta\Licenta\Proiect\Software\KinectVR-master\Kinect-v1-VR-Broadcaster-0.7\Kinect-1-VR-Broadcaster_src\broadcaster_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 75Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 42.991837 ms
+NuiInitialize Failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 6398 -> priority: 1 
+  Thread -> id: 63b4 -> priority: 1 
+  Thread -> id: 614c -> priority: 1 
+  Thread -> id: 5cc0 -> priority: 1 
